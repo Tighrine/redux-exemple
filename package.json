@@ -7,15 +7,14 @@
     "start": "webpack-dev-server --config ./webpack.config.js"
   },
   "keywords": [],
-  "author": "Mosh Hamedani",
-  "license": "ISC",
+  "author": "Aghile TIGHRINE",
+  "license": "MIT",
   "devDependencies": {
     "webpack": "4.41.6",
     "webpack-cli": "3.3.11",
     "webpack-dev-server": "3.10.3"
   },
   "dependencies": {
-    "react-redux": "^7.2.6",
     "redux": "^4.1.2"
   }
 }
